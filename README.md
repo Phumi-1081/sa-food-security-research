@@ -22,3 +22,32 @@ To save time for new farmers, we must map crops to their ideal climatic "sweet s
 |  KwaZulu-Natal   | Sugarcane, Bananas, Tea             | Coastal Humid              |
 
 Insight: By alerting a prospective farmer in Limpopo that their soil and heat are great for mangoes but terrible for apples, we prevent "trial-and-error" failure and wasted capital.
+
+3. Barriers to Entry (The Farmer's Interview Guide)
+   I plan to interview farmers in different provinces and who grow different food. Based on exsisting research, here are some common barriers, which will help in my interviews.
+
+Market Access: Many small farmers can grow the food but can't get it into major retailers (Pick n Pay, Checkers) due to strict grading and packaging standards.
+
+Logistics & Transport: The high cost of fuel and lack of reliable trucks to move produce from rural farms to urban hubs.
+
+Water Security: High reliance on irrigation in a water-scarce country; lack of funding for boreholes or solar-powered pumps.
+
+Financial Red Tape: Difficulty in securing loans without land titles (common in communal land areas).
+
+
+4. Strategic Benefits for South Africa
+
+Lower Food Prices: Shorter supply chains mean lower transport costs, which can stabilize the price of the "food basket" for the average citizen.
+
+Rural Development: Investing in local farming prevents "urban drift," where people leave rural areas for cities to find work. It creates thriving rural economies.
+
+Climate Resilience: Diversifying where we grow food ensures that if one province has a drought, another can fill the gap.
+
+
+
+
+
+
+
+
+
